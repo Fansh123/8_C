@@ -1,0 +1,23 @@
+# Steam游戏数据分析项目依赖库
+# 安装命令: pip install -r requirements.txt
+
+# 数据处理与分析
+pandas>=1.3.0
+numpy>=1.21.0
+
+# 数据可视化
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# 科学计算与统计分析
+scipy>=1.7.0
+
+# 机器学习与数据挖掘
+scikit-learn>=1.0.0
+
+# 网络请求与API调用
+requests>=2.26.0
+urllib3>=1.26.0
+
+# 中文自然语言处理 (Bonus 1 NLP分析需要)
+jieba>=0.42.1
